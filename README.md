@@ -1,6 +1,6 @@
 ## Lucy Oliphant
 
-I am both technical and visual - a developer with an appreciation for excellent design and usable interfaces. Having worked in e-commerce on the client-side for a number of years, my primary goal in joining Makers was gain a better understanding of the server side of web programming and to try my hand at building web applications from the concept stage right through to the finished product. By improving my understanding of the entire application, I also hoped become more agile and efficient within a development team. I want to continue building on my previous experience and everything I have learnt over the past few months at Makers, to move from web content management into a more traditional front-end developer role in an agile environment. I am looking for the opportunity to work on diverse projects with driven individuals in a company that fosters a culture of learning, openness and collaboration.
+I am both technical and visual - a developer with an appreciation for excellent design and usable interfaces. Having worked in e-commerce on the client-side for a number of years, my primary goal in joining Makers Academy was to gain a better understanding of the server side of web programming and to try my hand at building web applications from end to end. I want to move from web content management into a more traditional front-end developer role in an agile environment. I am looking for the opportunity to work on diverse projects with driven individuals in a company that fosters a culture of learning, openness and collaboration.
 
 
 
@@ -26,7 +26,7 @@ I am both technical and visual - a developer with an appreciation for excellent 
 
 Having created various applications using different technologies with JavaScript, it has become clearer to me what a versatile and valuable language it is.
 
-- Single-page applications (SPAs) are an interesting and useful feature of the modern Web - using AngularJS I created a To Do list. One of the great features of the AngularJS framework is that it is designed to be highly testable, using Karma and Protractor to test drive the build of this SPA - [To do list](https://github.com/lroliphant/todo_challenge)
+- Single-page applications (SPAs) are an interesting and useful feature of the modern Web - using AngularJS I created a SPA in the form of a To Do list. One of the great features of the AngularJS framework is that it is designed to be highly testable, so I used Karma and Protractor to test drive the build of this SPA - [To do list](https://github.com/lroliphant/todo_challenge)
 - [Rock, Paper, Scissors](https://github.com/lroliphant/rps-js2) - game built in JavaScript and tested with Jasmine, using Express to simplify the process of creating a Node.js server
 
 
