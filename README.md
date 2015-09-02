@@ -74,14 +74,11 @@ Having created various applications using different technologies with JavaScript
 **Selfridges** (September 2013 to June 2015)
 *Web Developer*  
 
-- Created Selfridges first responsive email campaign in November 2013, resulting in a significant improvement in click through rates on mobile devices
 - Built mobile-optimised SS14 Sale campaign emails, a campaign in which mobile traffic generated 629,777 clicks, versus 329,264 on mobile the previous year - an increase of 91%
-- Hand-coded and optimised 10+ responsive email campaign templates to support the weekly online marketing programme, as well as ad hoc responsive emails to support seasonal or one-off marketing campaigns, dramatically increasing the mobile traffic and revenue. Since completing the responsive email templates mobile visits increased from 69K last year to 139K (up 101%) and mobile revenue increased 106% year on year
+- Hand-coded and optimised 10+ responsive email templates to support the weekly online marketing programme and seasonal marketing campaigns, dramatically increasing the mobile traffic and revenue. Since completing the responsive email templates mobile visits increased from 69K last year to 139K (up 101%) and mobile revenue increased 106% year on year
 - Assisted with day-to-day email builds and template updates
 - Worked cross-functionally with internal departments and external parties on a variety of projects including site redesign, email redesign, brand launches and seasonal marketing campaigns
 - Created, maintained and updated content on Selfridges.com site using Websphere Commerce, Fredhopper and Drupal; including campaign pages, department pages, brand landing pages, headers, the homepage, mobile pages, webforms and other ad hoc content
-- Handled content refresh requests quickly and efficiently
-- Conducted daily QA testing on all content ready for production - troubleshooting cross-browser or other issues identified
 
 
 **Mr Porter** (May 2012 to September 2013)
@@ -90,30 +87,23 @@ Having created various applications using different technologies with JavaScript
 - Built regular features and home page content for the weekly publication of The Journal on MRPORTER.com
 - Collaborated with marketing, creative, editorial and technical teams within the business to drive development and production of engaging web features for The Journal
 - Created and updated content on mobile and desktop for MRPORTER.com within a custom-built CMS
-- Worked closely with Project Managers and the editorial and design teams to ensure work was delivered to specification and within the agreed deadlines
-- Advised on design decisions and best technical approaches for ad hoc projects
+- Advised on design decisions and best technical approaches for ad hoc projects and worked closely with Project Managers and the editorial and design teams to ensure work was delivered to specification and within the agreed deadlines
 
 
 **Law Business Research** (October 2011 to May 2012)
 *Web Content Junior*  
 
 - Responsible for formatting and uploading web content
-- Helped to test new features and solve technical issues across the sites
-- Utilised basic SQL queries to access and manipulate databases, in order to solve support requests, such
-as: the renewal of subscriptions; updating sites, adding users and updating the bookshop
-- Worked closely with the events and marketing teams to complete a range of tasks, such as: designing
-web banners and product images; developing and testing HTML emails; creating and managing groups
-for email campaigns
+- Helped to test new features, solve technical issues across the sites and respond to internal support requests
+- Utilised basic SQL queries to manipulate databases, such as the renewal of subscriptions, adding users and updating the bookshop
+- Worked closely with the events and marketing teams to complete a range of tasks, including designing web banners and managing groups for email campaigns
 
 
 **Lulu Guinness** (May 2010 to October 2011)
-*Web Development Assistant*  
+*Part-time Web Development Assistant*  
 
-- Part-time role at Lulu Guinness while I was at London University of Arts, I was offered a part-time web assistant role after working as an intern during the summer of 2010
-- Developed web pages within the CMS, such as: the affiliate program page; seasonal competition pages
-and newsletter sign-up forms for each local site
-- Hand-coded new HTML e-mail templates
-- Co-ordinated, tested and implemented e-mail marketing campaigns.
-- Built flash animations for the homepage and for seasonal promotions.
-- Retouched and re-sized product images for new collections
+- Developed web pages within the CMS, including the affiliate program page, seasonal competition pages and newsletter sign-up forms for local sites
+- Hand-coded new HTML e-mail templates and co-ordinated email marketing campaigns
+- Built flash animations for the homepage and for seasonal promotions
+- Retouched and re-sized product images for new season collections
 
