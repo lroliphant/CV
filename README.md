@@ -11,7 +11,7 @@ I am both technical and visual - a developer with an appreciation for excellent 
 
 * Hand-coding well-structured HTML, using considered semantic elements
 * CSS written by hand, built for responsive layouts and mobile devices
-* I am also familiar with Twitter Bootstrap toolkit ([Instagram challenge](https://github.com/lroliphant/instagram-challenge)) and Sass ([Beyond Camping](https://beyond-camping.herokuapp.com))
+* I am also familiar with Twitter Bootstrap toolkit and Sass
 * I have experience using media queries to tailor content to a range of devices. As part of the Selfridges digital team, I worked on the migration and reworking of content into responsive templates for the site redesign project in October 2014, under considerable time pressures. When building web apps/pages I utilise the responsive design principles I have learnt over the years to make content that scales and adapts to offer a great experience irrespective of browser or device
 * As approaches to writing, processing and maintaining CSS change, I read relevant blogs to keep up-to-date on advances in the field
 * I am aware of the importance of performance and use image optimisation and minification to help deliver fast, efficient applications to users
