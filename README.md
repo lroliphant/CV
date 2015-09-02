@@ -9,26 +9,25 @@ I am both technical and visual - a developer with an appreciation for excellent 
 
 #### HTML & CSS
 
-- Hand-coding well-structured HTML, using considered semantic elements
-- CSS written by hand, built for responsive layouts and mobile devices
-- I am also familiar with Twitter Bootstrap toolkit ([Instagram challenge](https://github.com/lroliphant/instagram-challenge)) and Sass [Beyond Camping Appl](https://beyond-camping.herokuapp.com)
-- I have experience using media queries to tailor content to a range of devices. As part of the Selfridges digital team, I worked on the migration and reworking of content into responsive templates for the site redesign project in October 2014, under considerable time pressures. When building web apps/pages I utilise the responsive design principles I have learnt over the years to make content that scales and adapts to offer a great experience irrespective of browser or device
-- As approaches to writing, processing and maintaining CSS change, I read relevant blogs to keep up-to-date on advances in the field
-- I am aware of the importance of performance and use image optimisation and minification to help deliver fast, efficient applications to users
-- Examples of some pages I built for Selfridges.com can be found below.
-⋅⋅*[The Wonder Room landing page](http://www.selfridges.com/GB/en/cat/wonder-room/)
-⋅⋅*[Selfridges Loves feature template](http://www.selfridges.com/GB/en/content/article/selfridges-loves-agender)
-⋅⋅*[Agender Debate feature](http://www.selfridges.com/GB/en/content/article/agender-debate)
-..*[Work It: Makerversity](http://www.selfridges.com/GB/en/content/work-it-makerversity)
+* Hand-coding well-structured HTML, using considered semantic elements
+* CSS written by hand, built for responsive layouts and mobile devices
+* I am also familiar with Twitter Bootstrap toolkit ([Instagram challenge](https://github.com/lroliphant/instagram-challenge)) and Sass ([Beyond Camping](https://beyond-camping.herokuapp.com))
+* I have experience using media queries to tailor content to a range of devices. As part of the Selfridges digital team, I worked on the migration and reworking of content into responsive templates for the site redesign project in October 2014, under considerable time pressures. When building web apps/pages I utilise the responsive design principles I have learnt over the years to make content that scales and adapts to offer a great experience irrespective of browser or device
+* As approaches to writing, processing and maintaining CSS change, I read relevant blogs to keep up-to-date on advances in the field
+* I am aware of the importance of performance and use image optimisation and minification to help deliver fast, efficient applications to users
+* Examples of some pages I built for Selfridges.com can be found below.
+  * [The Wonder Room landing page](http://www.selfridges.com/GB/en/cat/wonder-room/)
+  * [Selfridges Loves feature template](http://www.selfridges.com/GB/en/content/article/selfridges-loves-agender)
+  * [Agender Debate feature](http://www.selfridges.com/GB/en/content/article/agender-debate)
+  * [Work It: Makerversity](http://www.selfridges.com/GB/en/content/work-it-makerversity)
 
 
 #### JavaScript, jQuery and JavaScript frameworks
 
 Having created various applications using different technologies with JavaScript, it has become clearer to me what a versatile and valuable language it is.
 
-- [Rock, Paper, Scissors game](https://github.com/lroliphant/rps-js2) - game built in JavaScript and tested with Jasmine, using Express to simplify the process of creating a Node.js server
 - Single-page applications (SPAs) are an interesting and useful feature of the modern Web - using AngularJS I created a To Do list. One of the great features of the AngularJS framework is that it is designed to be highly testable, using Karma and Protractor to test drive the build of this SPA - [To do list](https://github.com/lroliphant/todo_challenge)
-
+- [Rock, Paper, Scissors](https://github.com/lroliphant/rps-js2) - game built in JavaScript and tested with Jasmine, using Express to simplify the process of creating a Node.js server
 
 
 #### Debugging
@@ -83,8 +82,6 @@ Having created various applications using different technologies with JavaScript
 - Created, maintained and updated content on Selfridges.com site using Websphere Commerce, Fredhopper and Drupal; including campaign pages, department pages, brand landing pages, headers, the homepage, mobile pages, webforms and other ad hoc content
 - Handled content refresh requests quickly and efficiently
 - Conducted daily QA testing on all content ready for production - troubleshooting cross-browser or other issues identified
-- Used Email on Acid to troubleshoot rendering issues across a wide variety of email clients, devices and
-operating systems
 
 
 **Mr Porter** (May 2012 to September 2013)
@@ -95,7 +92,6 @@ operating systems
 - Created and updated content on mobile and desktop for MRPORTER.com within a custom-built CMS
 - Worked closely with Project Managers and the editorial and design teams to ensure work was delivered to specification and within the agreed deadlines
 - Advised on design decisions and best technical approaches for ad hoc projects
-- Cross device and cross browser QA testing
 
 
 **Law Business Research** (October 2011 to May 2012)
