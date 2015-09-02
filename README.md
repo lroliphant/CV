@@ -1,6 +1,6 @@
 ## Lucy Oliphant
 
-I am both technical and visual - a developer with an appreciation for excellent design and usable interfaces. Having worked in e-commerce on the client-side for a number of years, my primary goal in joining Makers Academy was to gain a better understanding of the server side of web programming and to try my hand at building web applications from end to end. I want to move from web content management into a more traditional front-end developer role in an agile environment. I am looking for the opportunity to work on diverse projects with driven individuals in a company that fosters a culture of learning, openness and collaboration.
+I am both technical and visual - a developer with an appreciation for excellent design and usable interfaces. Having worked in e-commerce on the client-side for a number of years, my primary goal in joining Makers Academy was to gain a better understanding of the server-side of web programming and to try my hand at building end to end web applications. I want to move from web content management into a more traditional front-end developer role in an agile environment. I am looking for the opportunity to work on diverse projects with driven individuals in a company that fosters a culture of learning, openness and collaboration.
 
 
 
@@ -11,7 +11,7 @@ I am both technical and visual - a developer with an appreciation for excellent 
 
 * Hand-coding well-structured HTML, using considered semantic elements
 * CSS written by hand, built for responsive layouts and mobile devices
-* I am also familiar with Twitter Bootstrap toolkit and Sass
+* I am also familiar with Sass and the Twitter Bootstrap toolkit
 * I have experience using media queries to tailor content to a range of devices. As part of the Selfridges digital team, I worked on the migration and reworking of content into responsive templates for the site redesign project in October 2014, under considerable time pressures. When building web apps/pages I utilise the responsive design principles I have learnt over the years to make content that scales and adapts to offer a great experience irrespective of browser or device
 * As approaches to writing, processing and maintaining CSS change, I read relevant blogs to keep up-to-date on advances in the field
 * I am aware of the importance of performance and use image optimisation and minification to help deliver fast, efficient applications to users
@@ -78,7 +78,7 @@ Having created various applications using different technologies with JavaScript
 - Hand-coded and optimised 10+ responsive email templates to support the weekly online marketing programme and seasonal marketing campaigns, dramatically increasing the mobile traffic and revenue. Since completing the responsive email templates mobile visits increased from 69K last year to 139K (up 101%) and mobile revenue increased 106% year on year
 - Assisted with day-to-day email builds and template updates
 - Worked cross-functionally with internal departments and external parties on a variety of projects including site redesign, email redesign, brand launches and seasonal marketing campaigns
-- Created, maintained and updated content on Selfridges.com site using Websphere Commerce, Fredhopper and Drupal; including campaign pages, department pages, brand landing pages, headers, the homepage, mobile pages, webforms and other ad hoc content
+- Created, maintained and updated content on Selfridges.com site using Websphere Commerce, Fredhopper and Drupal; including campaign pages, department pages, brand landing pages, headers, the homepage, webforms and other ad hoc content
 
 
 **Mr Porter** (May 2012 to September 2013)
