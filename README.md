@@ -27,7 +27,7 @@ I am both technical and visual - a developer with an appreciation for excellent 
 Having created various applications using different technologies with JavaScript, it has become clearer to me what a versatile and valuable language it is.
 
 - Single-page applications (SPAs) are an interesting and useful feature of the modern Web - using AngularJS I created a SPA in the form of a To Do list. One of the great features of the AngularJS framework is that it is designed to be highly testable, so I used Karma and Protractor to test drive the build of this SPA - [To do list](https://github.com/lroliphant/todo_challenge)
-- [Rock, Paper, Scissors](https://github.com/lroliphant/rps-js2) - game built in JavaScript and tested with Jasmine, using Express to simplify the process of creating a Node.js server
+- [Rock, Paper, Scissors](https://github.com/lroliphant/rock_paper_scissors_js) - game built in JavaScript and tested with Jasmine, using Express to simplify the process of creating a Node.js server
 
 
 #### Debugging
